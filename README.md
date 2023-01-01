@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @bierozka
 - 👀 I’m interested in front-end development
+- my front end development libraries course final projects: https://codepen.io/bierozka
